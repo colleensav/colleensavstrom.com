@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>text{font:bold 64px Inter, system-ui, sans-serif; fill:#ffffff;letter-spacing:-0.05em;} .bg{fill:#000000;}</style>
+  </defs>
+  <circle class="bg" cx="64" cy="64" r="64" />
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle">CS</text>
+</svg>
