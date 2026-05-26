@@ -42,6 +42,33 @@ h1 {
     color: #9ca3af;
 }
 
+.contact {
+    display: flex;
+    justify-content: center;
+    gap: 1.4rem;
+    margin-top: 1.3rem;
+    flex-wrap: wrap;
+}
+
+.contact a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    color: #d4d4d8;
+    text-decoration: none;
+    font-size: 0.95rem;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.contact a:hover {
+    color: #f8fafc;
+    transform: translateY(-1px);
+}
+
+.contact i {
+    font-size: 1rem;
+}
+
 @media (max-width: 480px) {
     body {
         padding: 1rem;
